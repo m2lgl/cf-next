@@ -33,14 +33,14 @@ export default function Home() {
           </p>
 
           <p>
-            Gue mulai belajar ini semua karena hobi. Kadang masih pusing sama error sih, tapi itu yang bikin seru. Selain koding, gw juga masih harus bagi waktu sama tugas-tugas sekolah.
+            Gw mulai belajar ini semua karena hobi. Kadang masih pusing sama error sih, tapi itu yang bikin seru. Selain koding, gw juga masih harus bagi waktu sama tugas-tugas sekolah.
           </p>
           <p>
-          Ngoding itu susah? Iya klo gamau belajar. Buat yang mau belajar mah, gas gas aja. Meski troubleshooting seharian, disitulah letak asiknya. Wkwkwk
+          Ngoding itu susah? Iya klo gamau belajar. Buat yang mau belajar mah, gas gas aja. Meski troubleshooting seharian, tapi disitulah letak asiknya. Wkwkwk
           </p>
 
           <div className="pt-8 space-y-4">
-            <h2 className="text-xs font-bold uppercase tracking-widest text-zinc-500">Lagi dipelajarin:</h2>
+            <h2 className="text-xs font-bold uppercase tracking-widest text-zinc-500">Target Belajar:</h2>
             <ul className="grid grid-cols-2 gap-3 text-xs uppercase tracking-wider font-medium text-zinc-300">
               <li className="flex items-center gap-2">
                 <span className="w-1.5 h-1.5 rounded-full bg-blue-600"></span> JavaScript
@@ -53,6 +53,9 @@ export default function Home() {
               </li>
               <li className="flex items-center gap-2">
                 <span className="w-1.5 h-1.5 rounded-full bg-blue-600"></span> Automation
+              </li>
+              <li className="flex items-center gap-2">
+               <span className="w-1.5 h-1.5 rounded-full bg-blue-600"></span> Next.js
               </li>
             </ul>
           </div>
