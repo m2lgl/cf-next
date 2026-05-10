@@ -64,7 +64,7 @@ export default function Home() {
         {/* Simple Note */}
         <section className="mt-20 p-6 bg-zinc-900/40 rounded-lg border border-zinc-800/50">
           <p className="text-sm italic opacity-70">
-            "Belajar dikit-dikit yang penting konsisten. Gak perlu buru-buru, yang penting paham konsepnya."
+            "Gausah buru-buru jadi sepuh. Yang terpenting itu prosesnya. Bukan hasil."
           </p>
         </section>
 
